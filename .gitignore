@@ -54,6 +54,7 @@ coverage.xml
 # Input/Output
 *.o
 *.e
+slurm_file.txt
 
 # Translations
 *.mo
